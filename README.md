@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋! <br>My name is Manish Gupta</h1>
 
-###
 
 <h3 align="center">🤝Connect with me:</h3>
 
@@ -21,9 +20,15 @@
   </a>
 </div>
 
-###
 
-<h4 align="left">📜About Me <br>👉 I am Actively seeking new opportunities in the domain of Machine Learning,Deep Learning to expand my skillset and gain more experience in life.<br> <br>🌱"I'm actively expanding my knowledge in "Data Science & Data Analytics".<br>🎓I completed my BTECH in ECE,     from arya college of engg & IT,    Jaipur.<br>🔥 I have an experience in web-application development.</h4>
+<h1> </h1>
+<h3 align="left">📜About Me </h3>
+
+<h4 align="left">👉 I am Actively seeking new opportunities in the domain of Machine Learning,Deep Learning to expand my skillset and gain more experience in life.<br> <br>🌱"I'm actively expanding my knowledge in "Data Science & Data Analytics".<br>🎓I completed my BTECH in ECE,     from arya college of engg & IT,    Jaipur.<br>🔥 I have an experience in web-application development.</h4>
+
+<h1> </h1>
+
+<br>
 
 ###
 
@@ -42,6 +47,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
 </div>
+
+<br>
 
 ###
 
@@ -74,6 +81,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="amazonwebservices logo"  />
 </div>
+
+<h1> </h1>
+
+<br>
 
 ###
 
