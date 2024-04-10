@@ -20,7 +20,7 @@
   </a>
   <br>
   
-  https://github.com/Manish7272
+  https://manish7272.github.io
   <br>
   
 </div>
