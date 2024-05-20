@@ -18,8 +18,13 @@
   <a href="https://discord.com/channels/@manish_tabbit" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
+  
   <br>
   
+  <a href="https://manish7272.github.io" target="_blank">
+    <img src="https://qph.cf2.quoracdn.net/main-qimg-b86e3400f635cefbd77f2fce0846c90e-lq" height="100" alt="Portfolio Logo"  />
+  </a>
+
   https://manish7272.github.io
   <br>
   
